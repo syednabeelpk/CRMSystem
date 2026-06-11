@@ -11,7 +11,7 @@ public class Customer {
     int dateDay;
     int dateMonth;
     int dateYear;
-    int totalRecord;
+    int totalRecord; //test commit
     
 
     
