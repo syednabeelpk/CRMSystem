@@ -73,15 +73,12 @@ data/
 
 ## 👥 Team
 
-| Module                  | Owner     |
-|-------------------------|-----------|
-| AuthManager             | Ali Mehdi |
-| FileManager             | Ali Mehdi |
-| ReportGenerator         | Ali Mehdi |
-| Customer / Interaction  | Nabeel    |
-| CustomerManager         | Taimoor   |
-| Lead / LeadManager      | Ayan      |
-| Main / UI               | Nabeel    |
+| Files                                              | Owner     | Role                              |
+|----------------------------------------------------|-----------|-----------------------------------|
+| `Main.java`, `MainGUI.java`, `MainFrame.java`, `LoginFrame.java`, `UITheme.java`, `Customer.java`, `Interaction.java` | Nabeel | Ties everything together + full GUI |
+| `CustomerManager.java`                             | Taimoor   | Core CRUD + search logic          |
+| `Lead.java`, `LeadManager.java`                    | Ayan      | Sales pipeline                    |
+| `AuthManager.java`, `FileManager.java`, `ReportGenerator.java` | Ali Mehdi | Auth, persistence & reports |
 
 ---
 
