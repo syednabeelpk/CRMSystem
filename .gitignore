@@ -1,0 +1,26 @@
+# NetBeans build output
+build/
+dist/
+nbproject/private/
+
+# Compiled class files
+*.class
+
+# JAR files
+*.jar
+
+# Persisted data files (generated at runtime, should not be tracked)
+data/customers.dat
+data/leads.dat
+
+# NetBeans user-specific files
+nbactions.xml
+nb-configuration.xml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+*.iml
+.idea/
